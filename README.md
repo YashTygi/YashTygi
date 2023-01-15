@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tygi.yash@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kSuzqrG2CjRhO9m7nPRrQWmiyU1r5pYTBDeGSTdKDPU/edit?usp=sharing](https://docs.google.com/document/d/1kSuzqrG2CjRhO9m7nPRrQWmiyU1r5pYTBDeGSTdKDPU/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XnI4pZKU0meU09xL_vRa4Dm8hZucUTmn/view?usp=share_link)
 
 - ⚡ Fun fact **I am funny only to 10 year old**
 
