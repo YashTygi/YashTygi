@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Tyagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360" height="270" alt="main_image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtygi&label=Profile%20views&color=0e75b6&style=flat" alt="yashtygi" /> </p>
-
-
 <p align="left"> <a href="https://twitter.com/yshtygi" target="blank"><img src="https://img.shields.io/twitter/follow/yshtygi?logo=twitter&style=for-the-badge" alt="yshtygi" /></a> </p>
 
 - 🔭 I’m currently working on [HouseOfTunes](https://www.figma.com/file/mmPewn02sIiz97KH8jvFjQ/HouseOfTune%2FLow-fi%26Mid-fi?node-id=604097%3A471&t=UHENcCepgTTc3ZZt-1)
