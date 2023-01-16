@@ -1,6 +1,6 @@
 ![MasterHead](https://godigitallaagencia.com/wp-content/uploads/2020/06/web-developer.gif)
 <h1 align="center">Hi 👋, I'm Yash Tyagi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend developer and UI/UX Designer from India</h3>
 <img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="360" height="270" alt="main_image" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtygi&label=Profile%20views&color=0e75b6&style=flat" alt="yashtygi" /> </p>
 <p align="left"> <a href="https://twitter.com/yshtygi" target="blank"><img src="https://img.shields.io/twitter/follow/yshtygi?logo=twitter&style=for-the-badge" alt="yshtygi" /></a> </p>
@@ -52,4 +52,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashtygi&show_icons=true&locale=en&layout=compact" alt="yashtygi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashtygi&show_icons=true&locale=en" alt="yashtygi" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yashtygi&show_icons=true&locale=en" alt="yashtygi" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yashtygi&" alt="yashtygi" /></p>
