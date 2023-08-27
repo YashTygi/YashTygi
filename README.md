@@ -5,11 +5,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashtygi&label=Profile%20views&color=0e75b6&style=flat" alt="yashtygi" /> </p>
 <p align="left"> <a href="https://twitter.com/yshtygi" target="blank"><img src="https://img.shields.io/twitter/follow/yshtygi?logo=twitter&style=for-the-badge" alt="yshtygi" /></a> </p>
 
-- 🔭 I’m currently working on [HouseOfTunes](https://www.figma.com/file/mmPewn02sIiz97KH8jvFjQ/HouseOfTune%2FLow-fi%26Mid-fi?node-id=604097%3A471&t=UHENcCepgTTc3ZZt-1)
+- 🔭 I’m currently working on LogiMove
 
 - 🌱 I’m currently learning **Redux and Three.JS**
 
-- 📝 I regularly write articles on [https://yshtyagi.hashnode.dev/](https://yshtyagi.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://yshtyagi.hashnode.dev/) and [Medium](https://yashtygi.medium.com)
 
 - 💬 Ask me about **React**
 
